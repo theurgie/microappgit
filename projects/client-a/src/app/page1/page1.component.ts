@@ -22,7 +22,7 @@ import { FormControl } from '@angular/forms';
 
       <div class="form-group">
           <button
-              class="ui button">Search</button>
+              class="btn btn-default">Search</button>
 
           </div>
 
